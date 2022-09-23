@@ -1,1 +1,4 @@
-# kankosubmit
+# kenkosubmit
+健康報告提出プログラム
+
+##　自動として健康報告提出します。
